@@ -7,6 +7,12 @@
 
 - ⚡ Fun fact -- **I think I am funny and I am really good at Counter Strike 2.**
 
+- ## 📈 Current State
+<h3 align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shuvo3316&theme=radical&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&exclude_days=Fri%2CSat&fire=EB5454" alt="GitHub Streak" /></a>
+  
+</h3>
+
 - [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mostakin-Ahamed&theme=neon-dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
