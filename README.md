@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Myself as a Web-Developer**
 
-- ⚡ Fun fact --**I think I am funny and I am really good at Counter Strike 2.**
+- ⚡ Fun fact -- **I think I am funny and I am really good at Counter Strike 2.**
 
 - [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mostakin-Ahamed&theme=neon-dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
