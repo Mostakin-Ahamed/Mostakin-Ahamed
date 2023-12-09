@@ -13,7 +13,7 @@
   
 </h3>
 
-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mostakin-Ahamed&theme=neon-dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
