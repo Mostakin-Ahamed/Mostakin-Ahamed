@@ -1,3 +1,5 @@
+![logo](https://github.com/Mostakin-Ahamed/Mostakin-Ahamed/blob/main/git%20banner.png)
+
 <h1 align="left">Hi 👋, I'm Mostakin Ahamed</h1>
 <h3 align="left">A passionate frontend developer from Bangladesh</h3>
 
