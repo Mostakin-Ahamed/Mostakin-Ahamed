@@ -3,9 +3,12 @@
 <h1 align="center">Hi 👋, I'm Mostakin Ahamed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Myself as a Web-Developer**
+<h3 align="center">- 🔭 I’m currently working on **Myself as a Web-Developer**</h3>
+<h3 align="center">- ⚡ Fun fact -- **I think I am funny and I am really good at Counter Strike 2.**</h3>
 
-- ⚡ Fun fact -- **I think I am funny and I am really good at Counter Strike 2.**
+
+
+
 
 - ## 📈 Current State
 <h3 align="center">
