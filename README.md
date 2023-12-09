@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mostakin-ahamed-1a19a92a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostakin-ahamed-1a19a92a3/" height="30" width="40" /></a>
 </p>
 
-<img align="left" alt="coding" width="400" srd="![image](https://github.com/Mostakin-Ahamed/Mostakin-Ahamed/assets/138347336/6e66501c-db76-4887-bbee-84cf9081dfb1)
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Mostakin-Ahamed/Mostakin-Ahamed/assets/138347336/6e66501c-db76-4887-bbee-84cf9081dfb1)
 ">
 
 <h3 align="left">Languages and Tools:</h3>
