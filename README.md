@@ -1,7 +1,7 @@
 ![logo](https://github.com/Mostakin-Ahamed/Mostakin-Ahamed/blob/main/git%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Mostakin Ahamed</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A web developer with moderate skills from Bangladesh</h3>
 
 <h3 align="center">- 🔭 I’m currently working on **Myself as a Web-Developer**</h3>
 <h3 align="center">- ⚡ Fun fact -- **I think I am funny and I am really good at Counter Strike 2.**</h3>
